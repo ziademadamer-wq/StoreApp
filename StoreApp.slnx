@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="BL/BL.csproj" Id="2b4a4ce4-b9cf-4ef5-9537-9029924f55a6" />
+  <Project Path="DataAccessLiar/DAL.csproj" Id="f66e997a-cd12-4fbe-aaa3-d36d951587a5" />
+  <Project Path="Domains/Domains.csproj" Id="21d7d742-1257-4598-b684-3fd08a78e151" />
+  <Project Path="SaveListOfItemsOnFile/StoreApp.csproj" />
+  <Project Path="Utilities/Utilities.csproj" Id="b60ca40e-017f-4269-b50d-c22e9f964631" />
+</Solution>
